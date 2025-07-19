@@ -27,5 +27,3 @@ A backend service in Golang that logs website visits based on users' IP addresse
 
 ---
 
-## 📁 Folder Structure
-
